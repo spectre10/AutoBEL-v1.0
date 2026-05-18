@@ -1,0 +1,18 @@
+[project]
+name = "autobel-v1-0"
+version = "0.1.0"
+description = "Automated Bayesian Evidential Learning for Geological UQ (AutoBEL v1.0)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.0",
+    "jupyter>=1.1.0",
+    "matplotlib>=3.8.0",
+    "numpy>=1.26.0",
+    "pandas>=2.1.0",
+    "scikit-fmm>=2023.4.2",
+    "scikit-learn>=1.4.0",
+    "scipy>=1.11.0",
+    "seaborn>=0.13.0",
+    "tqdm>=4.66.0",
+]
